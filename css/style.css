@@ -64,32 +64,6 @@ html, body {
 }
 /*============Hero image/text END*/
 
-/*======== Navigation bar start*/
-.navigation-inner li{
-    list-style: none;
-    display: inline-block;
-    padding: 0px 10px 0px 10px;
-    border-right: 2px solid #A2A2A2;
-    height: 20px;
-    margin-top: 18px;
-    color: #A2A2A2;
-    font-size: 14px;
-}
-.navigation-inner li:last-child{
-	border-right: none;
-}
-.navigation-btn{
-    font-size: 12px;
-    margin: 0% 5%;
-    background-color: #28CEE8;
-    border: none;
-    border-radius: 15px;
-    padding: 10px;
-    width: 100px;
-    color: #fff;
-}
-/*======== Navigation bar END*/
-
 /*=========section1 start*/
 .section1{
 	margin-top: 5%;
@@ -295,33 +269,6 @@ html, body {
     color: #fff;
 }
 /*============Hero image/text END*/
-
-/*======== Navigation bar start*/
-.navigation-inner li{
-    list-style: none;
-    display: inline-block;
-    padding: 0px 25px 0px 25px;
-    border-right: 2px solid #A2A2A2;
-    height: 20px;
-    margin-top: 18px;
-    color: #A2A2A2;
-    font-size: 16px;
-}
-.navigation-inner li:last-child{
-	border-right: none;
-}
-.navigation-inner button{
-	float: right;
-    font-size: 12px;
-    margin: -40px 22%;
-    background-color: #28CEE8;
-    border: none;
-    border-radius: 15px;
-    padding: 10px;
-    width: 100px;
-    color: #fff;
-}
-/*======== Navigation bar END*/
 
 /*=========section1 start*/
 .section1{
